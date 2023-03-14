@@ -26,10 +26,10 @@ export const DeleteBtn = styled.button`
   width: 50px;
   border-radius: 30px;
   border: 0;
-  background-color: #1d2127;
+  background-color: #000000;
 
   &:hover {
-    background-color: #153e49;
+    background-color: rgb(80 80 80); ;
   }
 `;
 
@@ -38,6 +38,6 @@ export const BtnLogout = styled(BtnSubmit)`
   color: rgb(255, 224, 189);
 
   &:hover {
-    background-color: #153e49;
+    background-color:#000000;
   }
 `;
