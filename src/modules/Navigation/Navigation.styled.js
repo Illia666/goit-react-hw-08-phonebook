@@ -26,7 +26,6 @@ export const Link = styled(NavLink)`
     padding-bottom: 20px;
     padding-left: 25px;
     padding-right: 25px;
-    background-color: #051e1e;
     border-top-left-radius: 30px;
     border-start-end-radius: 30px;
   }

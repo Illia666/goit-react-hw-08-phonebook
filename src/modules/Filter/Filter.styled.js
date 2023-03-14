@@ -13,7 +13,6 @@ export const Input = styled.input`
   height: 50px;
   width: 100%;
   outline: none;
-  background-color: #ffe0bd;
 `;
 
 export const Label = styled.label`

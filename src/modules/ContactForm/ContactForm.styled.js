@@ -13,7 +13,7 @@ export const Input = styled.input`
   height: 50px;
   width: 100%;
   outline: none;
-  background-color: #ffe0bd;
+  background-color: #000000;
 `;
 
 export const Label = styled.label`
@@ -24,13 +24,12 @@ export const Label = styled.label`
 `;
 
 export const Form = styled.form`
-  margin-right: auto;
-  margin-left: auto;
+
   max-width: 360px;
   padding-right: 30px;
   padding-left: 30px;
   padding-top: 40px;
   padding-bottom: 40px;
   border-radius: 30px;
-  background-color: #153e49;
+  background-color: #000000;
 `;

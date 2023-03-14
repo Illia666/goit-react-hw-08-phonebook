@@ -25,7 +25,6 @@ html, body, div, span, object, iframe, figure, h1, h2, h3, h4, h5, h6, p, blockq
   margin: 0;
   font-family: 'Inter', sans-serif;
   line-height: 1;
-  background-color: #051e1e;
 }
 
   code {
